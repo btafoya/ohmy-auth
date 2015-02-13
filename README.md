@@ -24,7 +24,7 @@ The best way to install Oma is via Composer. Just add ```ohmy/auth``` to your pr
 ```json
 {
     "require": {
-        "ohmy/auth": "*"
+        "btafoya/ohmy-auth": "*"
     }
 }
 ```
