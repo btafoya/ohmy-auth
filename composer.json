@@ -1,8 +1,8 @@
 {
-    "name": "ohmy/auth",
+    "name": "btafoya/ohmy-auth",
     "description": "OAuth so easy.. you won't even believe it's OAuth",
     "keywords": ["oauth", "OAuth"],
-    "homepage": "https://github.com/sudocode/ohmy-auth",
+    "homepage": "https://github.com/btafoya/ohmy-auth",
     "license": "New BSD",
     "authors": [
         {
@@ -10,6 +10,12 @@
             "email": "sudocoder@ymail.com",
             "homepage": "http://sudoco.de/",
             "role": "Developer"
+        },
+        {
+            "name": "Brian Tafoya",
+            "email": "btafoya@briantafoya.com",
+            "homepage": "http://briantafoya.com/",
+            "role": "Developer-Modifier"
         }
     ],
     "minimum-stability": "dev",

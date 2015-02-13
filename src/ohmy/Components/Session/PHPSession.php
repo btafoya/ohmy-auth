@@ -16,13 +16,13 @@ class PHPSession implements Session {
     public function create($key, $value) {
         @session_start();
         $_SESSION[$key] = $value;
-        session_write_close();
+       //  session_write_close();
     }
 
     public function read($key) {
         @session_start();
         $value = ($_SESSION) ? $_SESSION[$key] : '';
-        session_write_close();
+        // session_write_close();
         return $value;
     }
 
